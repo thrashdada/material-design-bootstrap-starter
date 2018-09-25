@@ -1,0 +1,14 @@
+.bmd-layout-container {
+  min-height: 100vh;
+}
+
+.bmd-layout-drawer {
+  background: #1e3869;
+  color: #f5f5f5;
+}
+
+.staging-banner {
+  padding: 5px 15px;
+}
+
+/*# sourceMappingURL=maps/main.css.map */
